@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced Python**
 
-- 👨‍💻 All of my projects are available at [https://gilded-paletas-f19d51.netlify.app/](https://gilded-paletas-f19d51.netlify.app/)
+- 👨‍💻 All of my projects are available at [Abhishek dasari](existsforever.framer.website)
 
 - 📫 How to reach me **abhishekdasari1801@gmail.com**
   <br><br>
